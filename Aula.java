@@ -26,10 +26,6 @@ public class Aula
         return nombre;
     }
     
-    public int getPupitres()
-    {
-        return pupitres;
-    }
     
     public void setNombre(String nuevo)
     {
