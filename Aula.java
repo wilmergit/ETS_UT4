@@ -21,10 +21,6 @@ public class Aula
         pupitres = num;
     }
     
-    public String getNombre()
-    {
-        return nombre;
-    }
     
     public int getPupitres()
     {
